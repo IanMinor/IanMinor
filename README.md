@@ -1,4 +1,4 @@
-# 💫 Hi, I'm Ian!
+# 😼 Hi, I'm Ian!
 🔭 Studying Computer Science at BUAP, México<br>💻 Currently learning frontend development with enthusiasm
 
 
