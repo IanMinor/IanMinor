@@ -10,7 +10,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=IanMinor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=IanMinor&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMinor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMinor&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMinor&layout=donut-vertical)](https://github.com/IanMinor/github-readme-stats)-->
 
 ---
