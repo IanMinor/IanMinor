@@ -14,6 +14,6 @@
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMinor&layout=donut-vertical)](https://github.com/IanMinor/github-readme-stats)-->
 
 ---
-[![](https://visitcount.itsvg.in/api?id=IanMinor&icon=0&color=0)](https://visitcount.itsvg.in)
+![](https://visitcount.itsvg.in/api?id=IanMinor&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
