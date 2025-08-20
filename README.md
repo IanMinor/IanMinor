@@ -1,5 +1,5 @@
 # 😼 Hi, I'm Ian!
-🔭 Studying Computer Science at BUAP, México<br>💻 Currently learning frontend development with enthusiasm
+🔭 Studying Computer Science at BUAP, México<br>💻 Currently learning fullstack development with enthusiasm
 
 
 ## 🌐 Socials:
