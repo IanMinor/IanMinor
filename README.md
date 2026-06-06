@@ -1,4 +1,4 @@
-# Hi, I'm Ian Minor!
+<h1 align="center">Hi, I'm Ian Minor!</h1>
 
 Computer Science student passionate about Machine Learning, Computer Vision, and Software Development.
 
