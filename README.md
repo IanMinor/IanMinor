@@ -19,14 +19,16 @@ Always learning, always building.
 ![My Skills](https://skillicons.dev/icons?i=pytorch,react,fastapi,gcp,postgres,docker,linux)
 
 ## GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=IanMinor&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=IanMinor&theme=nightowl&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=IanMinor&theme=nightowl&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  <a href="https://github.com/IanMinor">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=IanMinor&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  </a>
+  <a href="https://github.com/IanMinor">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=IanMinor&layout=compact&langs_count=8&theme=dark"/>
+  </a>
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=IanMinor&limit=5&theme=shadow_red&combine_all_yearly_contributions=true)
+<p align="center">
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=IanMinor&theme=dark&hide_border=false"/>
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=IanMinor&icon=2&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
